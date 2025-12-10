@@ -3,7 +3,7 @@
 <img src="https://github.com/sahil8669" alt="my banner">
 <h3>Hi there👋</h3>
 <h2>👨‍💻About Me: </h2>
-<h4>👨‍🎓I am Sahil, a 3rd year student at <a href="https://ghrcem.raisoni.net/">GHRCEM Pune</a> pursuing B.Tech in Computer Science and Artificial Intelligence.👨‍💻I'm committed to excelling as a programmer, striving to become the best in the field.</h4>
+<h4>👨‍🎓I am Sahil, a Final year student at <a href="https://ghrcem.raisoni.net/">GHRCEM Pune</a> pursuing B.Tech in Computer Science and Artificial Intelligence.👨‍💻I'm committed to excelling as a programmer, striving to become the best in the field.</h4>
 <h3>🤝Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sahil-choudhary-1549822b7/"><img align="left" src="https://raw.githubusercontent.com/Pranav7038/Pranav7038/main/images/linkedin.svg" alt="icon/linkedin" width="21px"/></a>
 <a href="https://www.instagram.com/sahilc_05/?next=%2F"><img align="left" src="https://raw.githubusercontent.com/Pranav7038/Pranav7038/main/images/instagram.svg" alt="icon/instagram" width="21px"/></a><br>
